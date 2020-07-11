@@ -61,3 +61,23 @@ set_abs_origin = 1921296
 
 [netvars]
 cs_gamerules_data = 0
+m_ArmorValue = 45944
+m_Collision = 800
+m_CollisionGroup = 1140
+m_Local = 12220
+m_MoveType = 604
+m_OriginalOwnerXuidHigh = 12740
+m_OriginalOwnerXuidLow = 12736
+m_SurvivalGameRuleDecisionTypes = 4896
+m_SurvivalRules = 3320
+m_aimPunchAngle = 12332
+m_aimPunchAngleVel = 12344
+m_angEyeAnglesX = 45948
+m_angEyeAnglesY = 45952
+m_bBombPlanted = 2461
+m_bFreezePeriod = 32
+m_bGunGameImmunity = 14660
+m_bHasDefuser = 45960
+m_bHasHelmet = 45932
+m_bInReload = 12965
+m_bIsDefusing = 14640
