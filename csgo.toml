@@ -2,7 +2,17 @@ timestamp = 1592921641
 
 [signatures]
 anim_overlays = 10624
-@@ -16,48 +16,48 @@ dwClientState_MaxPlayer = 904
+clientstate_choked_commands = 19752
+clientstate_delta_ticks = 372
+clientstate_last_outgoing_command = 19748
+clientstate_net_channel = 156
+convar_name_hash_table = 192760
+dwClientState = 5811668
+dwClientState_GetLocalPlayer = 384
+dwClientState_IsHLTV = 19776
+dwClientState_Map = 652
+dwClientState_MapDirectory = 392
+dwClientState_MaxPlayer = 904
 dwClientState_PlayerInfo = 21176
 dwClientState_State = 264
 dwClientState_ViewAngles = 19848
